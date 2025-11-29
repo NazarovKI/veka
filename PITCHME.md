@@ -9,6 +9,7 @@ paginate: true
 _paginate: false
 ---
 
+
 ![bg opacity](./assets/gradient.jpg)
 
 # <!--fit--> Marp CLI example
