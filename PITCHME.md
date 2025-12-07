@@ -1,7 +1,7 @@
 ---
 marp: true
-theme: example
-paginate: true
+theme: default
+paginate: false 
 header: 'CRM: Диагностика проблем и пути решения'
 footer: 'Презентация для руководителя | Февраль 2025'
 
