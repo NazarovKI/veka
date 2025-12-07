@@ -33,7 +33,7 @@ footer: 'Презентация для руководителя | Февраль
 
 ---
 
-![bg right](./assets/atention.png)
+![bg right height:90%](./assets/atention.png)
 
 ### Прямые потери:
 - **80 000 руб./год** — "остывшие" лиды
