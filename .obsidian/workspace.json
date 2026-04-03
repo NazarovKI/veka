@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PITCHME.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "PITCHME"
             }
           }
         ]
@@ -185,11 +185,11 @@
   },
   "active": "31755bc404430cd7",
   "lastOpenFiles": [
+    "README.md",
     "PITCHME.md",
     "Word.png",
     "Не подтвержден 818387.crdownload",
     "okiDoki.png",
-    "README.md",
     "assets/priorities.png",
     "assets/netlify-deploy-button.svg",
     "assets/need_kp.png",
